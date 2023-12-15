@@ -72,9 +72,7 @@ console.log(emptyString);
  ```js
 let arrayRandomNumbers = [12,32,31,66,7,928];
 
-let arrayRandomNumbersResult = [...arrayRandomNumbers];
-
-console.log(arrayRandomNumbersResult);
+console.log(...arrayRandomNumbers);
  ```
 
 #### Console
