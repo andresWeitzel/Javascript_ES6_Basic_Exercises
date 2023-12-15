@@ -25,7 +25,9 @@ Basic javascript exercises with version 6 of the ECMAScript standard
 
 <!------Stop Index----->
 
+<br>
 
+<br>
 
 ## Section 1) Strings and Objects
 
@@ -68,16 +70,22 @@ console.log(emptyString);
 
 #### Solution
  ```js
-let emptyString = "";
-let stringWithContent = "7623762736762367";
-emptyString = emptyString + stringWithContent;
+let arrayRandomNumbers = [12,32,31,66,7,928];
 
-console.log(emptyString);
+let arrayRandomNumbersResult = [...arrayRandomNumbers];
+
+console.log(arrayRandomNumbersResult);
  ```
 
 #### Console
  ```js
-7623762736762367
+(6) [12, 32, 31, 66, 7, 928]
+0:12
+1:32
+2:31
+3:66
+4:7
+5:928
  ```
 
 <br>
