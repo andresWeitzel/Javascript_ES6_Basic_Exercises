@@ -37,7 +37,7 @@ Basic javascript exercises with version 6 of the ECMAScript standard
   <summary>See solution</summary>
  <br>
 
-#### Solution
+#### Code
  ```js
 let emptyString = "";
 let stringWithContent = "7623762736762367";
@@ -68,7 +68,7 @@ console.log(emptyString);
   <summary>See solution</summary>
  <br>
 
-#### Solution
+#### Code
  ```js
 let arrayRandomNumbers = [12,32,31,66,7,928];
 
