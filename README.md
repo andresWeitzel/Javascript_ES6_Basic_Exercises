@@ -11,9 +11,13 @@ Basic javascript exercises with version 6 of the ECMAScript standard
  <summary> See </summary>
  <br>
   
- ### Section 1) Strings
+ ### Section 1) Strings and Objects
+* [Write a JavaScript Program to Copy a String to an Empty String.](#write-a-javascript-program-to-copy-a-string-to-an-empty-string-)
 
-* [1.0) Write a JavaScript Program to Copy a String to an Empty String.](#10-write-a-javascript-program-to-copy-a-string-to-an-empty-string-)
+
+### Section 2) Arrays
+* [Create an array with random numbers and loop through it.](#write-a-javascript-program-to-copy-a-string-to-an-empty-string-)
+ 
  
 <br>
 
@@ -23,9 +27,9 @@ Basic javascript exercises with version 6 of the ECMAScript standard
 
 
 
-## Section 1) Strings
+## Section 1) Strings and Objects
 
-### 1.0) Write a JavaScript Program to Copy a String to an Empty String [🔝](#index-)
+### Write a JavaScript Program to Copy a String to an Empty String [🔝](#index-)
 
 <details>
   <summary>See solution</summary>
@@ -45,6 +49,36 @@ console.log(emptyString);
 7623762736762367
  ```
 
+<br>
+
+</details>
+
+<br>
+
+<br>
+
+
+## Section 2) Arrays
+
+### Create an array with random numbers and loop through it [🔝](#index-)
+
+<details>
+  <summary>See solution</summary>
+ <br>
+
+#### Solution
+ ```js
+let emptyString = "";
+let stringWithContent = "7623762736762367";
+emptyString = emptyString + stringWithContent;
+
+console.log(emptyString);
+ ```
+
+#### Console
+ ```js
+7623762736762367
+ ```
 
 <br>
 
