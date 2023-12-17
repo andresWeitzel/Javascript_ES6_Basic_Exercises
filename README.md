@@ -11,11 +11,11 @@ Basic javascript exercises with version 6 of the ECMAScript standard
  <summary> See </summary>
  <br>
   
- ### Section 1) Strings and Objects
+ ### Strings and Objects
 * [Write a JavaScript Program to Copy a String to an Empty String.](#write-a-javascript-program-to-copy-a-string-to-an-empty-string-)
 
 
-### Section 2) Arrays
+### Arrays
 * [Create an array with random numbers and loop through it.](#write-a-javascript-program-to-copy-a-string-to-an-empty-string-)
  
  
@@ -29,7 +29,7 @@ Basic javascript exercises with version 6 of the ECMAScript standard
 
 <br>
 
-## Section 1) Strings and Objects
+## Strings and Objects
 
 ### Write a JavaScript Program to Copy a String to an Empty String [🔝](#index-)
 
@@ -60,7 +60,7 @@ console.log(emptyString);
 <br>
 
 
-## Section 2) Arrays
+## Arrays
 
 ### Create an array with random numbers and loop through it [🔝](#index-)
 
